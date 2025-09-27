@@ -1,7 +1,8 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/header.svg" alt="wave header" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harry+Du;Computational+Biology+%2B+Software+Engineering;Deep+Learning+for+RNA+Structures;Robotics%2C+Vision%2C+and+Games" alt="Typing SVG" />
 </p>
+
 
 <h1 align="center">Hi, I'm <strong>Yile (Harry) Du</strong> 👋</h1>
 <p align="center">
