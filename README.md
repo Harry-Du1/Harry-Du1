@@ -96,4 +96,4 @@
 
 ## 🤝 Let’s Connect
 - Email: **hd10@williams.edu**
-- LinkedIn: [**LINKEDIN_HANDLE**](https://www.linkedin.com/in/yile-du-42b921346/)
+- LinkedIn: [**LINKEDIN Page**](https://www.linkedin.com/in/yile-du-42b921346/)
