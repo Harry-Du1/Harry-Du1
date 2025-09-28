@@ -55,70 +55,37 @@
 - Custom **Python/R** tools analyzing **UNAfold**, **RNAstructure**, **LinearFold** stochastic samples.  
 - Studied **loop likelihoods**, **neighboring base-pair correlations**, and **MFE** roles; exploring a **fractal model**.  
 - **Stack:** Python, R  
-- **Repo:** [link-to-repo-or-summary](https://github.com/USERNAME)
+- **Repo:** _private for now (in review); sample figures about RNA structure below:
+<p align="center">
+  <img src="fig/dreamPlot.png" alt="Dream_Plot" width="500">
+</p>
 
 ---
+### 3) Reinforcement Learning Algorithm of RNA Folding
+- A Reinforcement Learning Algorithm for analyzing RNA-folding as a sequencial process.  
+- Predict probable structure based on Double Q-learning and Alpha-Zero like prediction with Monte-Carlo Tree Search.  
+- **Stack:** Python  
+- **Repo:** [link to repo](https://github.com/Harry-Du1/Reinforcement-Learning-tool-for-RNA-folding.git)
 
-### 3) Rover Object Detection (URC)
-- **OpenCV + custom NNs** for **ZED stereo** cameras on a Mars Rover with **Harvard Robotics Club**.  
+### 4) Rover Object Detection and Camera Integration
+- **OpenCV + custom NNs** for **ZED stereo** cameras on a Mars Rover with **Harvard Undergraduates Robotics Club**.  
 - **Stack:** Python, OpenCV, ROS2  
-- **Repo:** [link-to-repo-or-notes](https://github.com/USERNAME)
+- **Repo:** [link to repo](https://github.com/djordjeivanovic11/rover.git)
 
 ---
 
-### 4) Games
-- **3D Platformer (Unity, C++/C#)** — added **First-Person mode**, improved animation systems.  
-  - Repo: [link-to-platformer](https://github.com/USERNAME) • GIF: ![demo](LINK_TO_GIF)
-- **Infinite Runner — _Dodge the Harvard Scooter_** (Construct 3 + JavaScript)  
-  - Repo: [link-to-runner](https://github.com/USERNAME) • _[Play on GitHub Pages](https://USERNAME.github.io/runner)_  
+### 5) Games
+- **3D Platformer (Unity, C++/C#)**
+  - Code temporarily unavailable. Trying to release the game by end of Oct. 
+- **Infinite Runner — _Dodge the Harvard Scooter_** (Construct 3 + JavaScript)
+  - Currently just started. Will finish in about one month. 
+  - Repo: [[link-to-runner](https://drive.google.com/file/d/1N1D5v8DEo4gNq9a8cGwwjp8aFxcAzI1r/view?usp=sharing)]
 
----
-
-## 🎮 Tiny README Mini-Game (No JS)
-
-> **Dodge the Scooter** — You’re crossing Harvard Yard. Scooters are coming. Choose wisely!
-
-**You start at the Science Center Plaza.**  
-- 👉 [Sprint across the plaza](#you-sprintrapidly-and-nearly-trip)  
-- 👉 [Wait and observe traffic](#you-wait-wisely-and-spot-a-gap)
-
-### You sprint—rapidly and nearly trip!
-A scooter flashes by. You regain balance. Ahead is a narrow path.  
-- 👉 [Cut left through the grass](#cutting-left-you-find-a-clearer-path)  
-- 👉 [Hold course on the bricks](#you-hold-course-but-a-scooter-appears)
-
-### You wait—wisely—and spot a gap!
-Great timing. You move with the flow. A rider rings a bell behind you.  
-- 👉 [Pick up speed](#picking-up-speed-you-merge-safely)  
-- 👉 [Wave them ahead](#you-wave-them-ahead-and-they-pass)
-
-### Cutting left, you find a clearer path!
-You glide to the steps—**safe!** 🎉  
-- 👉 [Play again](#tiny-readme-mini-game-no-js)
-
-### You hold course, but a scooter appears!
-You sidestep smoothly—close call—but you’re fine. **Safe!** 🎉  
-- 👉 [Play again](#tiny-readme-mini-game-no-js)
-
-### Picking up speed, you merge safely!
-Textbook merge. Yard skills: **S-tier.** **Safe!** 🎉  
-- 👉 [Play again](#tiny-readme-mini-game-no-js)
-
-### You wave them ahead, and they pass.
-Civility wins. You stroll across. **Safe!** 🎉  
-- 👉 [Play again](#tiny-readme-mini-game-no-js)
-
----
-
-## 📚 Recent Work & Writing
-- [RNA multi-branch modeling notes](https://github.com/USERNAME)  
-- [Vision pipeline snippets (ZED + OpenCV)](https://github.com/USERNAME)  
-- [Game dev logs & GIFs](https://github.com/USERNAME)
 
 ---
 
 ## 📄 Resume
-- **[Download PDF](./Resume_YileDu.pdf)** (keep this file in this repo)
+- **[Download PDF](./Yile_Du.pdf)**
 
 ---
 
