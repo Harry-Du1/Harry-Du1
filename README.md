@@ -79,10 +79,15 @@
   - Code temporarily unavailable. Trying to release the game by end of Oct. 
 - **Infinite Runner — _Dodge the Harvard Scooter_** (Construct 3 + JavaScript)
   - Currently just started. Will finish in about one month. 
-  - Repo: [[link-to-runner](https://drive.google.com/file/d/1N1D5v8DEo4gNq9a8cGwwjp8aFxcAzI1r/view?usp=sharing)]
+  - Repo: [link-to-runner](https://drive.google.com/file/d/1N1D5v8DEo4gNq9a8cGwwjp8aFxcAzI1r/view?usp=sharing)
 
 
 ---
+### 5) Tandem Gene Repeats Visualizer
+- Designed a Tandem Gene Repeats Visualizer for Biological sequence discovery and divergence tests. UIs are constructed using streamlit. 
+- Website access: [link to webpage](https://tandem-gene-alignment.streamlit.app/)
+- Repo: [link to repo](https://github.com/Harry-Du1/Tandem-Gene-Alignment-App.git)
+
 
 ## 📄 Resume
 - **[Download PDF](./Yile_Du.pdf)**
@@ -90,8 +95,8 @@
 ---
 
 ## 🤝 Let’s Connect
-- Email: **hd10@williams.edu**  
-- GitHub: **@USERNAME** • LinkedIn: **LINKEDIN_HANDLE**
+- Email: **hd10@williams.edu**
+- LinkedIn: [**LINKEDIN_HANDLE**](https://www.linkedin.com/in/yile-du-42b921346/)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/metrics.svg" alt="decorative divider" width="60%">
