@@ -57,7 +57,7 @@
 - **Stack:** Python, R  
 - **Repo:** _private for now (in review); sample figures about RNA structure below:
 <p align="center">
-  <img src="fig/dreamplot500.png" alt="Dream_Plot" width="500">
+  <img src="fig/dreamPlot500.png" alt="Dream_Plot" width="500">
 </p>
 
 ---
