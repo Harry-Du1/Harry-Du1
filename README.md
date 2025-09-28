@@ -33,8 +33,8 @@
 ---
 
 ## 🧰 Tech Stack
-**Languages:** Python • C/C++ • Java • C# • Bash  
-**ML/DS:** PyTorch • NumPy • Pandas • scikit-learn  
+**Languages:** Python • C/C++ • Java • C# • Bash • SQL
+**ML/DS:** PyTorch • scikit-learn  • Gymnasium 
 **Systems/Robotics:** ROS2 • OpenCV • ZED SDK  
 **Dev:** Git • Linux • Docker • VSCode • Unity  
 **EE/CAD:** Arduino • KiCad • SolidWorks
