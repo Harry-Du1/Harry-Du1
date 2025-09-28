@@ -97,7 +97,3 @@
 ## 🤝 Let’s Connect
 - Email: **hd10@williams.edu**
 - LinkedIn: [**LINKEDIN_HANDLE**](https://www.linkedin.com/in/yile-du-42b921346/)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/metrics.svg" alt="decorative divider" width="60%">
-</p>
