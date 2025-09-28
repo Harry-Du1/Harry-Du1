@@ -11,9 +11,9 @@
 
 <p align="center">
   <a href="mailto:hd10@williams.edu"><img alt="Email" src="https://img.shields.io/badge/Email-hd10%40williams.edu-blue?style=flat-square"></a>
-  <a href="https://github.com/USERNAME"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-USERNAME-black?style=flat-square&logo=github"></a>
-  <a href="https://www.linkedin.com/in/LINKEDIN_HANDLE/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=USERNAME&color=green&style=flat-square">
+  <a href="https://github.com/Harry-Du1"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-USERNAME-black?style=flat-square&logo=github"></a>
+  <a href="https://www.linkedin.com/in/yile-du-42b921346/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Harry-Du1&color=green&style=flat-square">
 </p>
 
 <!-- SUBTLE ANIMATED DIVIDER (SVG) -->
